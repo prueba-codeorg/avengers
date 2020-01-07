@@ -1,5 +1,6 @@
 # Miembros
 
+* Capitan America
 * Black panther
 * Black Widow
 * Capitán America
@@ -17,4 +18,3 @@
 * Vision
 * Wasp
 * Antman
-* Capitan loco
